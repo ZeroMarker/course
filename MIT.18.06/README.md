@@ -1,6 +1,6 @@
 # MIT 18.06 Linear Algebra
 
-[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+[MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 [GitHub Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
 
